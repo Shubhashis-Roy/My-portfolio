@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://c8.alamy.com/comp/T0F8FK/handwriting-text-my-portfolio-conceptual-photo-samples-of-work-art-drawings-photography-color-hand-marks-of-different-sizes-overlapping-for-teamwork-T0F8FK.jpg" alt="Portfolio item thumb" width="300" height="230" >
+  <img src="https://c8.alamy.com/comp/T0F8FK/handwriting-text-my-portfolio-conceptual-photo-samples-of-work-art-drawings-photography-color-hand-marks-of-different-sizes-overlapping-for-teamwork-T0F8FK.jpg" alt="Portfolio item thumb" width="450" height="350" >
 
   <h1>My Portfolio</h1>
 

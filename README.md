@@ -10,6 +10,6 @@
 
 <h2>Description</h2>
 
-It's a simulation of client side e-commerce website with featues as <b>select a product</b>, <b>added to card </b> and proceed for <b>checkout</b> and <b>payment options</b>. It simulates a shopping cart within a website.
+It's a simple frontend of a portfolio website where I added my <b>project</b>, <b>resume</b> and <b>details</b>.
 
-<h3> <a href="https://subhashisroy.github.io/My-portfolio/">View Demo</a> </h3>
+<h3> <a href="https://subhashisroy.github.io/My-portfolio/">Live View</a> </h3>

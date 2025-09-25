@@ -732,3 +732,105 @@ button {
 /* **************************
     backGroundCircle Not use 
    ************************** */
+
+/* ===========================
+   Responsive Styles
+   =========================== */
+
+/* Large Tablets (≤1200px) */
+@media (max-width: 1200px) {
+  .home-text h1 {
+    font-size: 40px;
+  }
+  .home-text h2 {
+    font-size: 24px;
+  }
+  .about-img,
+  .about-text {
+    padding: 0 20px;
+  }
+  .portfolio-item {
+    width: calc(33.33% - 30px);
+  }
+}
+
+/* Tablets (≤992px) */
+@media (max-width: 992px) {
+  .home-text,
+  .home-img {
+    width: 100%;
+    text-align: center;
+  }
+  .home-text h1 {
+    font-size: 36px;
+  }
+  .home-text h2 {
+    font-size: 22px;
+  }
+  .about-img,
+  .about-text {
+    width: 100%;
+    padding: 15px;
+    text-align: center;
+  }
+  .portfolio-item {
+    width: calc(50% - 30px);
+  }
+  .contact-form,
+  .contact-info {
+    width: 100%;
+    margin-bottom: 30px;
+  }
+}
+
+/* Mobile (≤768px) */
+@media (max-width: 768px) {
+  body {
+    padding: 15px 10px;
+  }
+  .section-title {
+    font-size: 28px;
+    margin-bottom: 25px;
+  }
+  .home-text h1 {
+    font-size: 30px;
+  }
+  .home-text h2 {
+    font-size: 18px;
+  }
+  .about-text h3 {
+    font-size: 18px;
+  }
+  .portfolio-item {
+    width: 100%;
+    margin: 0 0 20px;
+  }
+  .pp-header .btn {
+    right: -20px;
+    top: -20px;
+  }
+}
+
+/* Small Mobile (≤480px) */
+@media (max-width: 480px) {
+  .btn {
+    padding: 8px 20px;
+    font-size: 14px;
+  }
+  .section-title {
+    font-size: 24px;
+  }
+  .home-text h1 {
+    font-size: 26px;
+  }
+  .home-text h2 {
+    font-size: 16px;
+  }
+  .about-text .skills {
+    flex-direction: column;
+    align-items: center;
+  }
+  .about-text .skill-item {
+    margin: 5px 0;
+  }
+}
